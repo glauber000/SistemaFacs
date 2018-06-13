@@ -14,6 +14,13 @@ public class Setor {
     private static int idcount = 0;
     private String nome;
 
+    public Setor(){
+        this.id = idcount++;
+    }
+    public Setor(String nome){
+        this.nome = nome;
+        this.id = idcount++;
+    }
     public int getId() {
         return id;
     }

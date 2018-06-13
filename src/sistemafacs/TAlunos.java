@@ -208,8 +208,7 @@ public class TAlunos extends javax.swing.JFrame {
         al.setNome(caixa1.getText());
         al.setMat(Integer.parseInt(caixa2.getText()));
         al.setEnd(caixa3.getText());
-        al.setTel(Float.parseFloat(caixa4.getText()));
-        
+        al.setTel(caixa4.getText());
         if(!tt){
             bs.setAlunos(al);
             f.setTxt("Salvo com sucesso!");

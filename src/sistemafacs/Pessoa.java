@@ -10,10 +10,10 @@ package sistemafacs;
  * @author glaub
  */
 public class Pessoa {
-    private String nome;
-    private int mat;
-    private String end;
-    private float tel;
+    protected String nome;
+    protected int mat;
+    protected String end;
+    protected String tel;
 
     public String getNome() {
         return nome;
@@ -39,11 +39,11 @@ public class Pessoa {
         this.end = end;
     }
 
-    public float getTel() {
+    public String getTel() {
         return tel;
     }
 
-    public void setTel(float tel) {
+    public void setTel(String tel) {
         this.tel = tel;
     }
     

@@ -10,8 +10,8 @@ package sistemafacs;
  * @author glaub
  */
 public class Funcionario extends Pessoa{
-    private String data_adm;
-    private double salario;
+    protected String data_adm;
+    protected double salario;
     
     
     public String getData_adm() {
@@ -29,30 +29,5 @@ public class Funcionario extends Pessoa{
     public void setSalario(double salario) {
         this.salario = salario;
     }
-    public String getNome(){
-        return super.getNome();
-    }
-    public void setNome(String nome){
-        super.setNome(nome);
-    }
-    public int getMat(){
-        return super.getMat();
-    }
-    public void setMat(int mat){
-        super.setMat(mat);
-    }
-    public String getEnd(){
-        return super.getEnd();
-    }
-    public void setEnd(String end){
-        super.setEnd(end);
-    }
-    public float getTel(){
-        return super.getTel();
-    }
-    public void setTel(float tel){
-        super.setTel(tel);
-    }
-    
     
 }

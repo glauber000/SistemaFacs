@@ -29,18 +29,6 @@
           <Group type="102" attributes="0">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
-                      <EmptySpace min="158" pref="158" max="-2" attributes="0"/>
-                      <Component id="jLabel1" min="-2" pref="417" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" attributes="0">
-                      <EmptySpace min="64" pref="64" max="-2" attributes="0"/>
-                      <Component id="jButtonEsc" min="-2" pref="88" max="-2" attributes="0"/>
-                      <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
-                      <Component id="jButtonCur" min="-2" pref="88" max="-2" attributes="0"/>
-                      <EmptySpace min="105" pref="105" max="-2" attributes="0"/>
-                      <Component id="jButtonDis" min="-2" pref="93" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" attributes="0">
                       <EmptySpace min="292" pref="292" max="-2" attributes="0"/>
                       <Component id="Bsair" min="-2" max="-2" attributes="0"/>
                   </Group>
@@ -58,8 +46,21 @@
                       <EmptySpace min="105" pref="105" max="-2" attributes="0"/>
                       <Component id="jButtonFun" min="-2" max="-2" attributes="0"/>
                   </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                      <Component id="jButtonEsc" min="-2" pref="88" max="-2" attributes="0"/>
+                      <EmptySpace min="110" pref="110" max="-2" attributes="0"/>
+                      <Component id="jButtonCur" min="-2" pref="88" max="-2" attributes="0"/>
+                      <EmptySpace min="105" pref="105" max="-2" attributes="0"/>
+                      <Component id="jButtonDis" min="-2" pref="93" max="-2" attributes="0"/>
+                  </Group>
               </Group>
-              <EmptySpace pref="28" max="32767" attributes="0"/>
+              <EmptySpace pref="55" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" pref="174" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="211" max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
@@ -98,7 +99,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Verdana" size="18" style="0"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Sistema de Gest&#xe3;o Universit&#xe1;ria"/>
+        <Property name="text" type="java.lang.String" value="&#xc1;rea de Cadastro"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="jButtonFun">
@@ -173,7 +174,7 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="33" green="0" red="ff" type="rgb"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Sair"/>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BsairActionPerformed"/>

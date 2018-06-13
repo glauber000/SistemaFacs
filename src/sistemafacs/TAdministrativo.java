@@ -231,7 +231,7 @@ public class TAdministrativo extends javax.swing.JFrame {
         ad.setNome(caixa1.getText());
         ad.setMat(Integer.parseInt(caixa2.getText()));
         ad.setEnd(caixa3.getText());
-        ad.setTel(Float.parseFloat(caixa4.getText()));
+        ad.setTel(caixa4.getText());
         ad.setData_adm(caixa5.getText());
         ad.setSalario(Double.parseDouble(caixa6.getText()));
         if(!tt){

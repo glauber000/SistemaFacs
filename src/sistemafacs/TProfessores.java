@@ -242,7 +242,7 @@ public class TProfessores extends javax.swing.JFrame {
         ps.setNome(caixa1.getText());
         ps.setMat(Integer.parseInt(caixa2.getText()));
         ps.setEnd(caixa3.getText());
-        ps.setTel(Float.parseFloat(caixa4.getText()));
+        ps.setTel(caixa4.getText());
         ps.setData_adm(caixa5.getText());
         ps.setSalario(Double.parseDouble(caixa6.getText()));
         

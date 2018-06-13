@@ -19,7 +19,13 @@ public class Turmas {
     private ArrayList<Alunos> aluno = new ArrayList<>();
 
     public Turmas(){
-        id = idcount++;
+        this.id = idcount++;
+    }
+    public Turmas(Disciplinas disciplina, Professores professor, Alunos as){
+        this.disciplina = disciplina;
+        this.professor = professor;
+        this.aluno.add(as);
+        this.id = idcount++;
     }
     
     public int getId() {
@@ -60,6 +66,10 @@ public class Turmas {
 
     public void setAluno(Alunos al) {
         aluno.add(al);
+    }
+    
+    public void setAluno(ArrayList<Alunos> aluno){
+        this.aluno = aluno;
     }
     
     

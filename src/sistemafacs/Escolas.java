@@ -16,7 +16,7 @@ public class Escolas {
     
     public Escolas(String nome){
         this.nome = nome;
-        id = idcount++;
+        this.id = idcount++;
     }
 
     public String getNome() {

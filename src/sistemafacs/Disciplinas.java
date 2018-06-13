@@ -19,10 +19,10 @@ public class Disciplinas {
     
     public Disciplinas(String nome){
         this.nome = nome;
-        id = idcount++;
+        this.id = idcount++;
     }
     public Disciplinas(){
-        id = idcount++;
+        this.id = idcount++;
     }
 
     public int getId() {
@@ -56,5 +56,10 @@ public class Disciplinas {
     public void setCurso(Cursos cs) {
         curso.add(cs);
     }
+
+    public void setCurso(ArrayList<Cursos> curso) {
+        this.curso = curso;
+    }
+    
     
 }

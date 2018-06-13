@@ -4,27 +4,46 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TProfessores.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Notific.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/AProfessor.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/ADisciplina.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Funcionario.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Principal.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TEEscolas.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Escolas.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/ASetor.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Turmas.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Professores.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TEAlunos.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TExcluir.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Cursos.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TCursos.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TECursos.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TEscolas.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TDisciplinas.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Pessoa.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Setor.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Notific.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TEDisciplinas.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TETurmas.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/ACurso.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Principal.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TEProfessor.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/AEscola.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/ATurma.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Alunos.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Inicio.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/AAdm.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Administrativo.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TAdministrativo.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Banco.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Cursos.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TCursos.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TESetor.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Alterar.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TTurmas.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TEscolas.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TDisciplinas.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TSetores.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/TAlunos.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Pessoa.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/ListaEs.java</file>
             <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Disciplinas.java</file>
-            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Setor.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/Excluir.java</file>
+            <file>file:/E:/Projetos/SistemaFacs/src/sistemafacs/AAluno.java</file>
         </group>
     </open-files>
 </project-private>

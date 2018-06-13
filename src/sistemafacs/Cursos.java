@@ -19,7 +19,7 @@ public class Cursos {
     public Cursos(String nome,Escolas escola){
         this.nome = nome;
         this.escola = escola;
-        id = idcount++;
+        this.id = idcount++;
     }
 
     public int getId() {
